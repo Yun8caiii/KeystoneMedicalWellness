@@ -1,0 +1,27 @@
+.topnav {
+  width: 930px;
+  height: 72px;
+  position: absolute;
+  left: 939px;
+  top: 30px;
+}
+
+.background {
+  width: 1811px;
+  height: 951px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+    font-size: 40px;
+    width: 613px;
+    height: 1000px;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+  }
